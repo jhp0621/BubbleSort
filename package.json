@@ -1,0 +1,11 @@
+{
+  "name": "bubblesort",
+  "version": "1.0.0",
+  "description": "learn about bubblesort",
+  "scripts": {
+    "test": "testem"
+  },
+  "devDependencies": {
+    "testem": "2.9.0"
+  }
+}
